@@ -1,5 +1,7 @@
 # git-workshop
-A repository for working with git
+A repository for learning about git
 
 
-These are some changes
+Hello World!
+
+Thank you, Kevin! You are a great teacher!
