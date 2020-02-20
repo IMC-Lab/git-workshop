@@ -1,2 +1,5 @@
 # git-workshop
-A repository for learning about git
+A repository for working with git
+
+
+These are some changes
